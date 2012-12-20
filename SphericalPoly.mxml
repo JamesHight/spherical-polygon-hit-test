@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" creationComplete="init()" viewSourceURL="srcview/index.html">
+	<mx:Script>
+		<![CDATA[
+			
+			import com.zavoo.spherical.SPoint;			
+			import com.zavoo.spherical.SphericalPolygon;
+			
+			public var polys:Array;
+			public var pointXML:XML;
+			
+			public function init():void {
+				polys = new Array();
+								
+				// Get Point Lat/Lon XML (Formatted For Yahoo Maps API)
+				var loader:URLLoader = new URLLoader();
+				loader.addEventListener(Event.COMPLETE, onLoadComplete);				
+				var request:URLRequest = new URLRequest("assets/LatLonPoints.xml");				
+				loader.load(request);					
+			}
+			
+			public function onLoadComplete(event:Event):void {
+				//Save XML data
+				var loader:URLLoader = URLLoader(event.target);				
+				pointXML =  new XML(loader.data);
+			    
+			    //Load Polys into polys array
+			    this.loadPolys();
+			    
+			    this.hitTestFirstPoly();
+			    
+			}
+			
+			public function loadPolys():void {
+				for each (var xmlPoints:XML in this.pointXML..points) {
+					var spoints:Array = new Array();
+					for each (var xmlPoint:XML in xmlPoints.point) {
+						spoints.push(new SPoint(xmlPoint.lat,xmlPoint.lon));
+					}
+					polys.push(new SphericalPolygon(spoints));
+				}
+			}
+			
+			public function hitTestFirstPoly() {
+				trace ('Hit testing first polygon');
+				
+				var firstPoly:SphericalPolygon = polys[0];
+				for (var i:int = 1; i < polys.length; i++) {
+					if (firstPoly.overlaps(polys[i])) {
+						trace('P1 overlaps P' + i);
+					}
+				}
+			}
+			
+		]]>
+	</mx:Script>
+</mx:Application>

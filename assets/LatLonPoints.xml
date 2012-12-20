@@ -1,0 +1,3367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<style>
+		<thickness>1</thickness>
+		<color>0xFF0000</color>
+		<alpha>50</alpha>		
+	</style>	
+	<move>
+		<lat>40</lat>
+		<lon>-78</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>40</lat>
+				<lon>-78</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-78</lon>			
+			</point>
+
+			
+			<point>
+				<lat>40</lat>
+				<lon>-78</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>36</lat>
+		<lon>-88</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>36</lat>
+				<lon>-88</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-95</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-95</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-88</lon>			
+			</point>
+
+			
+			<point>
+				<lat>36</lat>
+				<lon>-88</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>36</lat>
+		<lon>-75</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>36</lat>
+				<lon>-75</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-82</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-82</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-75</lon>			
+			</point>
+
+			
+			<point>
+				<lat>36</lat>
+				<lon>-75</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>48.5</lat>
+		<lon>-85</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>48.5</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>48.5</lat>
+				<lon>-93</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-93</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-85</lon>			
+			</point>
+
+			
+			<point>
+				<lat>48.5</lat>
+				<lon>-85</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>44</lat>
+		<lon>-77</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>44</lat>
+				<lon>-77</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-77</lon>			
+			</point>
+
+			
+			<point>
+				<lat>44</lat>
+				<lon>-77</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>68</lat>
+		<lon>-158</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>68</lat>
+				<lon>-158</lon>			
+			</point>
+
+			<point>
+				<lat>68</lat>
+				<lon>-171.5</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-171.5</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-158</lon>			
+			</point>
+
+			
+			<point>
+				<lat>68</lat>
+				<lon>-158</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>40</lat>
+		<lon>-111</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>40</lat>
+				<lon>-111</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-118</lon>			
+			</point>
+
+			<point>
+				<lat>35.6666666</lat>
+				<lon>-118</lon>			
+			</point>
+
+			<point>
+				<lat>35.6666666</lat>
+				<lon>-111</lon>			
+			</point>
+
+			
+			<point>
+				<lat>40</lat>
+				<lon>-111</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>36</lat>
+		<lon>-102</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>36</lat>
+				<lon>-102</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-102</lon>			
+			</point>
+
+			
+			<point>
+				<lat>36</lat>
+				<lon>-102</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>36</lat>
+		<lon>-81</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>36</lat>
+				<lon>-81</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-88</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-88</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-81</lon>			
+			</point>
+
+			
+			<point>
+				<lat>36</lat>
+				<lon>-81</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>32</lat>
+		<lon>-97</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>32</lat>
+				<lon>-97</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-103</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-103</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-97</lon>			
+			</point>
+
+			
+			<point>
+				<lat>32</lat>
+				<lon>-97</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>32</lat>
+		<lon>-85</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>32</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-91</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-91</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-85</lon>			
+			</point>
+
+			
+			<point>
+				<lat>32</lat>
+				<lon>-85</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>28</lat>
+		<lon>-97</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>28</lat>
+				<lon>-97</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-103</lon>			
+			</point>
+
+			<point>
+				<lat>24</lat>
+				<lon>-103</lon>			
+			</point>
+
+			<point>
+				<lat>24</lat>
+				<lon>-97</lon>			
+			</point>
+
+			
+			<point>
+				<lat>28</lat>
+				<lon>-97</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>36</lat>
+		<lon>-115</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>36</lat>
+				<lon>-115</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-122</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-122</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-115</lon>			
+			</point>
+
+			
+			<point>
+				<lat>36</lat>
+				<lon>-115</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>40</lat>
+		<lon>-97</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>40</lat>
+				<lon>-97</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-104</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-104</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-97</lon>			
+			</point>
+
+			
+			<point>
+				<lat>40</lat>
+				<lon>-97</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>44.5</lat>
+		<lon>-117</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-117</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-125</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-125</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-117</lon>			
+			</point>
+
+			
+			<point>
+				<lat>44.5</lat>
+				<lon>-117</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>44.5</lat>
+		<lon>-101</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-101</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-101</lon>			
+			</point>
+
+			
+			<point>
+				<lat>44.5</lat>
+				<lon>-101</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>44</lat>
+		<lon>-69</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>44</lat>
+				<lon>-69</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-77</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-77</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-69</lon>			
+			</point>
+
+			
+			<point>
+				<lat>44</lat>
+				<lon>-69</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>49</lat>
+		<lon>-109</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>49</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>49</lat>
+				<lon>-117</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-117</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-109</lon>			
+			</point>
+
+			
+			<point>
+				<lat>49</lat>
+				<lon>-109</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>49</lat>
+		<lon>-93</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>49</lat>
+				<lon>-93</lon>			
+			</point>
+
+			<point>
+				<lat>49</lat>
+				<lon>-101</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-101</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-93</lon>			
+			</point>
+
+			
+			<point>
+				<lat>49</lat>
+				<lon>-93</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>48</lat>
+		<lon>-61</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>48</lat>
+				<lon>-61</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-69</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-69</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-61</lon>			
+			</point>
+
+			
+			<point>
+				<lat>48</lat>
+				<lon>-61</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56</lat>
+		<lon>-155</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56</lat>
+				<lon>-155</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-164</lon>			
+			</point>
+
+			<point>
+				<lat>54</lat>
+				<lon>-164</lon>			
+			</point>
+
+			<point>
+				<lat>54</lat>
+				<lon>-155</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56</lat>
+				<lon>-155</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64</lat>
+		<lon>-162</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64</lat>
+				<lon>-162</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-173</lon>			
+			</point>
+
+			<point>
+				<lat>59.66666</lat>
+				<lon>-173</lon>			
+			</point>
+
+			<point>
+				<lat>59.66666</lat>
+				<lon>-162</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64</lat>
+				<lon>-162</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64</lat>
+		<lon>-141</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64</lat>
+				<lon>-141</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-151.35</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-151.35</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-141</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64</lat>
+				<lon>-141</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60</lat>
+		<lon>-130</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60</lat>
+				<lon>-130</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-141</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-141</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-130</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60</lat>
+				<lon>-130</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>68</lat>
+		<lon>-145</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>68</lat>
+				<lon>-145</lon>			
+			</point>
+
+			<point>
+				<lat>68</lat>
+				<lon>-158</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-158</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-145</lon>			
+			</point>
+
+			
+			<point>
+				<lat>68</lat>
+				<lon>-145</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>72</lat>
+		<lon>-141</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>72</lat>
+				<lon>-141</lon>			
+			</point>
+
+			<point>
+				<lat>72</lat>
+				<lon>-157</lon>			
+			</point>
+
+			<point>
+				<lat>68</lat>
+				<lon>-157</lon>			
+			</point>
+
+			<point>
+				<lat>68</lat>
+				<lon>-141</lon>			
+			</point>
+
+			
+			<point>
+				<lat>72</lat>
+				<lon>-141</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>61.333333</lat>
+		<lon>-141</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>61.333333</lat>
+				<lon>-141</lon>			
+			</point>
+
+			<point>
+				<lat>61.333333</lat>
+				<lon>-152.5</lon>			
+			</point>
+
+			<point>
+				<lat>59.25</lat>
+				<lon>-152.5</lon>			
+			</point>
+
+			<point>
+				<lat>59.25</lat>
+				<lon>-141</lon>			
+			</point>
+
+			
+			<point>
+				<lat>61.333333</lat>
+				<lon>-141</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60.25</lat>
+		<lon>-116.83</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60.25</lat>
+				<lon>-116.83</lon>			
+			</point>
+
+			<point>
+				<lat>60.25</lat>
+				<lon>-128.75</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-128.67</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-117.42</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60.25</lat>
+				<lon>-116.83</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64.5</lat>
+		<lon>-116.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64.5</lat>
+				<lon>-116.67</lon>			
+			</point>
+
+			<point>
+				<lat>64.5</lat>
+				<lon>-129.17</lon>			
+			</point>
+
+			<point>
+				<lat>62</lat>
+				<lon>-129.33</lon>			
+			</point>
+
+			<point>
+				<lat>62</lat>
+				<lon>-116.33</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64.5</lat>
+				<lon>-116.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64.33</lat>
+		<lon>-77.42</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64.33</lat>
+				<lon>-77.42</lon>			
+			</point>
+
+			<point>
+				<lat>64.33</lat>
+				<lon>-90</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-90.33</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-77.25</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64.33</lat>
+				<lon>-77.42</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60.25</lat>
+		<lon>-93.83</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60.25</lat>
+				<lon>-93.83</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-105.92</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-106.17</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-94.42</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60.25</lat>
+				<lon>-93.83</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>52.33</lat>
+		<lon>-64.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>52.33</lat>
+				<lon>-64.67</lon>			
+			</point>
+
+			<point>
+				<lat>52.33</lat>
+				<lon>-74</lon>			
+			</point>
+
+			<point>
+				<lat>47.67</lat>
+				<lon>-74</lon>			
+			</point>
+
+			<point>
+				<lat>47.67</lat>
+				<lon>-65.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>52.33</lat>
+				<lon>-64.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60.25</lat>
+		<lon>-82.83</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60.25</lat>
+				<lon>-82.83</lon>			
+			</point>
+
+			<point>
+				<lat>60.25</lat>
+				<lon>-94.83</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-94.83</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-83.5</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60.25</lat>
+				<lon>-82.83</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>44</lat>
+		<lon>-85</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>44</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-93</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-93</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-85</lon>			
+			</point>
+
+			
+			<point>
+				<lat>44</lat>
+				<lon>-85</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>40</lat>
+		<lon>-84</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>40</lat>
+				<lon>-84</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-91</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-91</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-84</lon>			
+			</point>
+
+			
+			<point>
+				<lat>40</lat>
+				<lon>-84</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>35.666666</lat>
+		<lon>-109</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>35.666666</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>35.666666</lat>
+				<lon>-116</lon>			
+			</point>
+
+			<point>
+				<lat>31.25</lat>
+				<lon>-116</lon>			
+			</point>
+
+			<point>
+				<lat>31.25</lat>
+				<lon>-109</lon>			
+			</point>
+
+			
+			<point>
+				<lat>35.666666</lat>
+				<lon>-109</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>40</lat>
+		<lon>-104</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>40</lat>
+				<lon>-104</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-111</lon>			
+			</point>
+
+			<point>
+				<lat>35.666667</lat>
+				<lon>-111</lon>			
+			</point>
+
+			<point>
+				<lat>35.666667</lat>
+				<lon>-104</lon>			
+			</point>
+
+			
+			<point>
+				<lat>40</lat>
+				<lon>-104</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>36</lat>
+		<lon>-95</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>36</lat>
+				<lon>-95</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-102</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-102</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-95</lon>			
+			</point>
+
+			
+			<point>
+				<lat>36</lat>
+				<lon>-95</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>32</lat>
+		<lon>-103</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>32</lat>
+				<lon>-103</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-103</lon>			
+			</point>
+
+			
+			<point>
+				<lat>32</lat>
+				<lon>-103</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>32</lat>
+		<lon>-91</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>32</lat>
+				<lon>-91</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-97</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-97</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-91</lon>			
+			</point>
+
+			
+			<point>
+				<lat>32</lat>
+				<lon>-91</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>32</lat>
+		<lon>-79</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>32</lat>
+				<lon>-79</lon>			
+			</point>
+
+			<point>
+				<lat>32</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-79</lon>			
+			</point>
+
+			
+			<point>
+				<lat>32</lat>
+				<lon>-79</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>28</lat>
+		<lon>-77</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>28</lat>
+				<lon>-77</lon>			
+			</point>
+
+			<point>
+				<lat>28</lat>
+				<lon>-83</lon>			
+			</point>
+
+			<point>
+				<lat>24</lat>
+				<lon>-83</lon>			
+			</point>
+
+			<point>
+				<lat>24</lat>
+				<lon>-77</lon>			
+			</point>
+
+			
+			<point>
+				<lat>28</lat>
+				<lon>-77</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>40</lat>
+		<lon>-118</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>40</lat>
+				<lon>-118</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-125</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-125</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-118</lon>			
+			</point>
+
+			
+			<point>
+				<lat>40</lat>
+				<lon>-118</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>40</lat>
+		<lon>-72</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>40</lat>
+				<lon>-72</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-79</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-79</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-72</lon>			
+			</point>
+
+			
+			<point>
+				<lat>40</lat>
+				<lon>-72</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>44.5</lat>
+		<lon>-109</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-117</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-117</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-109</lon>			
+			</point>
+
+			
+			<point>
+				<lat>44.5</lat>
+				<lon>-109</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>44.5</lat>
+		<lon>-93</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-93</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-101</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-101</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-93</lon>			
+			</point>
+
+			
+			<point>
+				<lat>44.5</lat>
+				<lon>-93</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>49</lat>
+		<lon>-117</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>49</lat>
+				<lon>-117</lon>			
+			</point>
+
+			<point>
+				<lat>49</lat>
+				<lon>-125</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-125</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-117</lon>			
+			</point>
+
+			
+			<point>
+				<lat>49</lat>
+				<lon>-117</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>49</lat>
+		<lon>-101</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>49</lat>
+				<lon>-101</lon>			
+			</point>
+
+			<point>
+				<lat>49</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-109</lon>			
+			</point>
+
+			<point>
+				<lat>44.5</lat>
+				<lon>-101</lon>			
+			</point>
+
+			
+			<point>
+				<lat>49</lat>
+				<lon>-101</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>48</lat>
+		<lon>-77</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>48</lat>
+				<lon>-77</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-85</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-77</lon>			
+			</point>
+
+			
+			<point>
+				<lat>48</lat>
+				<lon>-77</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56</lat>
+		<lon>-164</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56</lat>
+				<lon>-164</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-173</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-173</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-164</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56</lat>
+				<lon>-164</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60</lat>
+		<lon>-151.5</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60</lat>
+				<lon>-151.5</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-162</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-162</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-151.5</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60</lat>
+				<lon>-151.5</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64</lat>
+		<lon>-151.5</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64</lat>
+				<lon>-151.5</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-162</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-162</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-151.5</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64</lat>
+				<lon>-151.5</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64.5</lat>
+		<lon>-139.66</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64.5</lat>
+				<lon>-139.66</lon>			
+			</point>
+
+			<point>
+				<lat>64.5</lat>
+				<lon>-142.17</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-141.33</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-129.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64.5</lat>
+				<lon>-139.66</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56</lat>
+		<lon>-130</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56</lat>
+				<lon>-130</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-139</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-139</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-130</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56</lat>
+				<lon>-130</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>68</lat>
+		<lon>-132</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>68</lat>
+				<lon>-132</lon>			
+			</point>
+
+			<point>
+				<lat>68</lat>
+				<lon>-145</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-145</lon>			
+			</point>
+
+			<point>
+				<lat>64</lat>
+				<lon>-132</lon>			
+			</point>
+
+			
+			<point>
+				<lat>68</lat>
+				<lon>-132</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>72</lat>
+		<lon>-157</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>72</lat>
+				<lon>-157</lon>			
+			</point>
+
+			<point>
+				<lat>72</lat>
+				<lon>-171.5</lon>			
+			</point>
+
+			<point>
+				<lat>68</lat>
+				<lon>-171.5</lon>			
+			</point>
+
+			<point>
+				<lat>68</lat>
+				<lon>-157</lon>			
+			</point>
+
+			
+			<point>
+				<lat>72</lat>
+				<lon>-157</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>25</lat>
+		<lon>-155</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>25</lat>
+				<lon>-155</lon>			
+			</point>
+
+			<point>
+				<lat>25</lat>
+				<lon>-161</lon>			
+			</point>
+
+			<point>
+				<lat>18</lat>
+				<lon>-161</lon>			
+			</point>
+
+			<point>
+				<lat>18</lat>
+				<lon>-155</lon>			
+			</point>
+
+			
+			<point>
+				<lat>25</lat>
+				<lon>-155</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>40</lat>
+		<lon>-89</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>40</lat>
+				<lon>-89</lon>			
+			</point>
+
+			<point>
+				<lat>40</lat>
+				<lon>-97</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-97</lon>			
+			</point>
+
+			<point>
+				<lat>36</lat>
+				<lon>-89</lon>			
+			</point>
+
+			
+			<point>
+				<lat>40</lat>
+				<lon>-89</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60.17</lat>
+		<lon>-71.5</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60.17</lat>
+				<lon>-71.5</lon>			
+			</point>
+
+			<point>
+				<lat>60.17</lat>
+				<lon>-83.5</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-83.58</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-72.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60.17</lat>
+				<lon>-71.5</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60.17</lat>
+		<lon>-60.17</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60.17</lat>
+				<lon>-60.17</lon>			
+			</point>
+
+			<point>
+				<lat>60.17</lat>
+				<lon>-72</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-72.17</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-60.58</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60.17</lat>
+				<lon>-60.17</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60.17</lat>
+		<lon>-128</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60.17</lat>
+				<lon>-128</lon>			
+			</point>
+
+			<point>
+				<lat>60.25</lat>
+				<lon>-140</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-139.5</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-128.67</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60.17</lat>
+				<lon>-128</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56.17</lat>
+		<lon>-124.66</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-124.66</lon>			
+			</point>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-135.33</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-134.92</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-125.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56.17</lat>
+				<lon>-124.66</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56.17</lat>
+		<lon>-104.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-104.67</lon>			
+			</point>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-115.33</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-115.17</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-105.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56.17</lat>
+				<lon>-104.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56.33</lat>
+		<lon>-94.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56.33</lat>
+				<lon>-94.67</lon>			
+			</point>
+
+			<point>
+				<lat>56.33</lat>
+				<lon>-105.33</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-105.17</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-95.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56.33</lat>
+				<lon>-94.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56.33</lat>
+		<lon>-84.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56.33</lat>
+				<lon>-84.67</lon>			
+			</point>
+
+			<point>
+				<lat>56.33</lat>
+				<lon>-95.33</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-95.17</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-85.25</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56.33</lat>
+				<lon>-84.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56.17</lat>
+		<lon>-74.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-74.67</lon>			
+			</point>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-85.33</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-85.17</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-75.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56.17</lat>
+				<lon>-74.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56.17</lat>
+		<lon>-64.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-64.67</lon>			
+			</point>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-75.33</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-75.17</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-65.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56.17</lat>
+				<lon>-64.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56.17</lat>
+		<lon>-54.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-54.67</lon>			
+			</point>
+
+			<point>
+				<lat>56.17</lat>
+				<lon>-66</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-65.17</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-55.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56.17</lat>
+				<lon>-54.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>52.25</lat>
+		<lon>-119.33</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>52.25</lat>
+				<lon>-119.33</lon>			
+			</point>
+
+			<point>
+				<lat>52.25</lat>
+				<lon>-129</lon>			
+			</point>
+
+			<point>
+				<lat>47.75</lat>
+				<lon>-128.66</lon>			
+			</point>
+
+			<point>
+				<lat>47.75</lat>
+				<lon>-119.83</lon>			
+			</point>
+
+			
+			<point>
+				<lat>52.25</lat>
+				<lon>-119.33</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>52.25</lat>
+		<lon>-110.33</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>52.25</lat>
+				<lon>-110.33</lon>			
+			</point>
+
+			<point>
+				<lat>52.25</lat>
+				<lon>-120</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-119.83</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-110.83</lon>			
+			</point>
+
+			
+			<point>
+				<lat>52.25</lat>
+				<lon>-110.33</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>52.25</lat>
+		<lon>-101.33</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>52.25</lat>
+				<lon>-101.33</lon>			
+			</point>
+
+			<point>
+				<lat>52.25</lat>
+				<lon>-111</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-110.67</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-101.75</lon>			
+			</point>
+
+			
+			<point>
+				<lat>52.25</lat>
+				<lon>-101.33</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>52</lat>
+		<lon>-92</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>52</lat>
+				<lon>-92</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-101.67</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-101.67</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-92.33</lon>			
+			</point>
+
+			
+			<point>
+				<lat>52</lat>
+				<lon>-92</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>52.17</lat>
+		<lon>-83</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>52.17</lat>
+				<lon>-83</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-92.5</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-92.33</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-83.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>52.17</lat>
+				<lon>-83</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>52.17</lat>
+		<lon>-73.5</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>52.17</lat>
+				<lon>-73.5</lon>			
+			</point>
+
+			<point>
+				<lat>52.17</lat>
+				<lon>-83.33</lon>			
+			</point>
+
+			<point>
+				<lat>47.67</lat>
+				<lon>-83.17</lon>			
+			</point>
+
+			<point>
+				<lat>47.67</lat>
+				<lon>-74</lon>			
+			</point>
+
+			
+			<point>
+				<lat>52.17</lat>
+				<lon>-73.5</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>50.66</lat>
+		<lon>-52</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>50.66</lat>
+				<lon>-52</lon>			
+			</point>
+
+			<point>
+				<lat>50.5</lat>
+				<lon>-61.17</lon>			
+			</point>
+
+			<point>
+				<lat>46</lat>
+				<lon>-61</lon>			
+			</point>
+
+			<point>
+				<lat>46</lat>
+				<lon>-52.5</lon>			
+			</point>
+
+			
+			<point>
+				<lat>50.66</lat>
+				<lon>-52</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64.5</lat>
+		<lon>-129.66</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64.5</lat>
+				<lon>-129.66</lon>			
+			</point>
+
+			<point>
+				<lat>64.5</lat>
+				<lon>-142.17</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-141.75</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-129.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64.5</lat>
+				<lon>-129.66</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>46</lat>
+		<lon>-74</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>46</lat>
+				<lon>-74</lon>			
+			</point>
+
+			<point>
+				<lat>46</lat>
+				<lon>-82</lon>			
+			</point>
+
+			<point>
+				<lat>42</lat>
+				<lon>-82</lon>			
+			</point>
+
+			<point>
+				<lat>42</lat>
+				<lon>-74</lon>			
+			</point>
+
+			
+			<point>
+				<lat>46</lat>
+				<lon>-74</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>47.83</lat>
+		<lon>-67.5</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>47.83</lat>
+				<lon>-67.5</lon>			
+			</point>
+
+			<point>
+				<lat>47.83</lat>
+				<lon>-76.17</lon>			
+			</point>
+
+			<point>
+				<lat>43.33</lat>
+				<lon>-75.97</lon>			
+			</point>
+
+			<point>
+				<lat>43.33</lat>
+				<lon>-68.5</lon>			
+			</point>
+
+			
+			<point>
+				<lat>47.83</lat>
+				<lon>-67.5</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>47.83</lat>
+		<lon>-59.42</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>47.83</lat>
+				<lon>-59.42</lon>			
+			</point>
+
+			<point>
+				<lat>47.83</lat>
+				<lon>-68</lon>			
+			</point>
+
+			<point>
+				<lat>43.33</lat>
+				<lon>-67.83</lon>			
+			</point>
+
+			<point>
+				<lat>43.33</lat>
+				<lon>-59.66</lon>			
+			</point>
+
+			
+			<point>
+				<lat>47.83</lat>
+				<lon>-59.42</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64.5</lat>
+		<lon>-102.5</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64.5</lat>
+				<lon>-102.5</lon>			
+			</point>
+
+			<point>
+				<lat>64.5</lat>
+				<lon>-116.33</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-116.33</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-103.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64.5</lat>
+				<lon>-102.5</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>52</lat>
+		<lon>-55.5</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>52</lat>
+				<lon>-55.5</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-64.83</lon>			
+			</point>
+
+			<point>
+				<lat>47.5</lat>
+				<lon>-64.83</lon>			
+			</point>
+
+			<point>
+				<lat>47.5</lat>
+				<lon>-55.5</lon>			
+			</point>
+
+			
+			<point>
+				<lat>52</lat>
+				<lon>-55.5</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>64.25</lat>
+		<lon>-89.5</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>64.25</lat>
+				<lon>-89.5</lon>			
+			</point>
+
+			<point>
+				<lat>64.25</lat>
+				<lon>-103</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-103.17</lon>			
+			</point>
+
+			<point>
+				<lat>60</lat>
+				<lon>-90.25</lon>			
+			</point>
+
+			
+			<point>
+				<lat>64.25</lat>
+				<lon>-89.5</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>60.25</lat>
+		<lon>-105.42</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>60.25</lat>
+				<lon>-105.42</lon>			
+			</point>
+
+			<point>
+				<lat>60.28</lat>
+				<lon>-117.42</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-117.5</lon>			
+			</point>
+
+			<point>
+				<lat>56</lat>
+				<lon>-106</lon>			
+			</point>
+
+			
+			<point>
+				<lat>60.25</lat>
+				<lon>-105.42</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>56.25</lat>
+		<lon>-114.67</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>56.25</lat>
+				<lon>-114.67</lon>			
+			</point>
+
+			<point>
+				<lat>56.25</lat>
+				<lon>-125.42</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-125.17</lon>			
+			</point>
+
+			<point>
+				<lat>52</lat>
+				<lon>-115.17</lon>			
+			</point>
+
+			
+			<point>
+				<lat>56.25</lat>
+				<lon>-114.67</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>47</lat>
+		<lon>-93</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>47</lat>
+				<lon>-93</lon>			
+			</point>
+
+			<point>
+				<lat>45.75</lat>
+				<lon>-84.3</lon>			
+			</point>
+
+			<point>
+				<lat>45.75</lat>
+				<lon>-76</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-76</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-83</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-84</lon>			
+			</point>
+
+			<point>
+				<lat>50</lat>
+				<lon>-92</lon>			
+			</point>
+
+			
+			<point>
+				<lat>47</lat>
+				<lon>-93</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>48</lat>
+		<lon>-69</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>48</lat>
+				<lon>-69</lon>			
+			</point>
+
+			<point>
+				<lat>48</lat>
+				<lon>-77</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-77</lon>			
+			</point>
+
+			<point>
+				<lat>44</lat>
+				<lon>-69</lon>			
+			</point>
+
+			
+			<point>
+				<lat>48</lat>
+				<lon>-69</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+	
+	
+	<move>
+		<lat>63.5</lat>
+		<lon>-142</lon>
+	</move>
+	<line>
+		<points>
+
+			<point>
+				<lat>63.5</lat>
+				<lon>-142</lon>			
+			</point>
+
+			<point>
+				<lat>63.5</lat>
+				<lon>-142</lon>			
+			</point>
+
+			<point>
+				<lat>61</lat>
+				<lon>-143</lon>			
+			</point>
+
+			<point>
+				<lat>61</lat>
+				<lon>-143</lon>			
+			</point>
+
+			<point>
+				<lat>59</lat>
+				<lon>-132.5</lon>			
+			</point>
+
+			<point>
+				<lat>59</lat>
+				<lon>-132.5</lon>			
+			</point>
+
+			<point>
+				<lat>57</lat>
+				<lon>-122</lon>			
+			</point>
+
+			<point>
+				<lat>57</lat>
+				<lon>-122</lon>			
+			</point>
+
+			<point>
+				<lat>59</lat>
+				<lon>-128.25</lon>			
+			</point>
+
+			<point>
+				<lat>59</lat>
+				<lon>-128.25</lon>			
+			</point>
+
+			<point>
+				<lat>61</lat>
+				<lon>-130</lon>			
+			</point>
+
+			<point>
+				<lat>61</lat>
+				<lon>-130</lon>			
+			</point>
+
+			
+			<point>
+				<lat>63.5</lat>
+				<lon>-142</lon>			
+			</point>
+						
+		</points>
+	</line>
+	
+</root>
